@@ -1,0 +1,8 @@
+Dear User,
+
+You are using InputOs. This is a low-level operating system. This was inspired by the 1960s and the linux terminal.
+This is a program written in Python. You can make copies of this program, but you need to include my name. Or github user anymousuer293.
+You can make your own programs actually. Just you have to look at source code.
+
+Sincerely,
+anymousuer293
